@@ -24,11 +24,11 @@ MonoBehaviour:
     PDF: https://ktane.timwi.de/PDF/Sequences.pdf
 
 
-    Sequences (sequencesModule) v1.0.0
+    Sequences (sequencesModule) v1.0.1
 
     Module and Concept by eXish
 
     Twitch Plays supported'
-  version: 1.0.0
+  version: 1.0.1
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 81dd54a89d25ec4448d97a589e1ed4c5, type: 3}
